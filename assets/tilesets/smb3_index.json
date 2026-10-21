@@ -1,0 +1,883 @@
+{
+  "tileSize": 16,
+  "columns": 12,
+  "count": 146,
+  "tiles": [
+    {
+      "index": 0,
+      "col": 0,
+      "row": 0,
+      "occurrences": 428
+    },
+    {
+      "index": 1,
+      "col": 1,
+      "row": 0,
+      "occurrences": 204
+    },
+    {
+      "index": 2,
+      "col": 2,
+      "row": 0,
+      "occurrences": 192
+    },
+    {
+      "index": 3,
+      "col": 3,
+      "row": 0,
+      "occurrences": 154
+    },
+    {
+      "index": 4,
+      "col": 4,
+      "row": 0,
+      "occurrences": 75
+    },
+    {
+      "index": 5,
+      "col": 5,
+      "row": 0,
+      "occurrences": 71
+    },
+    {
+      "index": 6,
+      "col": 6,
+      "row": 0,
+      "occurrences": 39
+    },
+    {
+      "index": 7,
+      "col": 7,
+      "row": 0,
+      "occurrences": 39
+    },
+    {
+      "index": 8,
+      "col": 8,
+      "row": 0,
+      "occurrences": 34
+    },
+    {
+      "index": 9,
+      "col": 9,
+      "row": 0,
+      "occurrences": 27
+    },
+    {
+      "index": 10,
+      "col": 10,
+      "row": 0,
+      "occurrences": 27
+    },
+    {
+      "index": 11,
+      "col": 11,
+      "row": 0,
+      "occurrences": 27
+    },
+    {
+      "index": 12,
+      "col": 0,
+      "row": 1,
+      "occurrences": 26
+    },
+    {
+      "index": 13,
+      "col": 1,
+      "row": 1,
+      "occurrences": 26
+    },
+    {
+      "index": 14,
+      "col": 2,
+      "row": 1,
+      "occurrences": 23
+    },
+    {
+      "index": 15,
+      "col": 3,
+      "row": 1,
+      "occurrences": 23
+    },
+    {
+      "index": 16,
+      "col": 4,
+      "row": 1,
+      "occurrences": 20
+    },
+    {
+      "index": 17,
+      "col": 5,
+      "row": 1,
+      "occurrences": 19
+    },
+    {
+      "index": 18,
+      "col": 6,
+      "row": 1,
+      "occurrences": 19
+    },
+    {
+      "index": 19,
+      "col": 7,
+      "row": 1,
+      "occurrences": 19
+    },
+    {
+      "index": 20,
+      "col": 8,
+      "row": 1,
+      "occurrences": 19
+    },
+    {
+      "index": 21,
+      "col": 9,
+      "row": 1,
+      "occurrences": 18
+    },
+    {
+      "index": 22,
+      "col": 10,
+      "row": 1,
+      "occurrences": 18
+    },
+    {
+      "index": 23,
+      "col": 11,
+      "row": 1,
+      "occurrences": 17
+    },
+    {
+      "index": 24,
+      "col": 0,
+      "row": 2,
+      "occurrences": 17
+    },
+    {
+      "index": 25,
+      "col": 1,
+      "row": 2,
+      "occurrences": 16
+    },
+    {
+      "index": 26,
+      "col": 2,
+      "row": 2,
+      "occurrences": 16
+    },
+    {
+      "index": 27,
+      "col": 3,
+      "row": 2,
+      "occurrences": 14
+    },
+    {
+      "index": 28,
+      "col": 4,
+      "row": 2,
+      "occurrences": 14
+    },
+    {
+      "index": 29,
+      "col": 5,
+      "row": 2,
+      "occurrences": 13
+    },
+    {
+      "index": 30,
+      "col": 6,
+      "row": 2,
+      "occurrences": 13
+    },
+    {
+      "index": 31,
+      "col": 7,
+      "row": 2,
+      "occurrences": 12
+    },
+    {
+      "index": 32,
+      "col": 8,
+      "row": 2,
+      "occurrences": 12
+    },
+    {
+      "index": 33,
+      "col": 9,
+      "row": 2,
+      "occurrences": 12
+    },
+    {
+      "index": 34,
+      "col": 10,
+      "row": 2,
+      "occurrences": 12
+    },
+    {
+      "index": 35,
+      "col": 11,
+      "row": 2,
+      "occurrences": 12
+    },
+    {
+      "index": 36,
+      "col": 0,
+      "row": 3,
+      "occurrences": 11
+    },
+    {
+      "index": 37,
+      "col": 1,
+      "row": 3,
+      "occurrences": 11
+    },
+    {
+      "index": 38,
+      "col": 2,
+      "row": 3,
+      "occurrences": 11
+    },
+    {
+      "index": 39,
+      "col": 3,
+      "row": 3,
+      "occurrences": 11
+    },
+    {
+      "index": 40,
+      "col": 4,
+      "row": 3,
+      "occurrences": 10
+    },
+    {
+      "index": 41,
+      "col": 5,
+      "row": 3,
+      "occurrences": 10
+    },
+    {
+      "index": 42,
+      "col": 6,
+      "row": 3,
+      "occurrences": 9
+    },
+    {
+      "index": 43,
+      "col": 7,
+      "row": 3,
+      "occurrences": 9
+    },
+    {
+      "index": 44,
+      "col": 8,
+      "row": 3,
+      "occurrences": 9
+    },
+    {
+      "index": 45,
+      "col": 9,
+      "row": 3,
+      "occurrences": 8
+    },
+    {
+      "index": 46,
+      "col": 10,
+      "row": 3,
+      "occurrences": 8
+    },
+    {
+      "index": 47,
+      "col": 11,
+      "row": 3,
+      "occurrences": 8
+    },
+    {
+      "index": 48,
+      "col": 0,
+      "row": 4,
+      "occurrences": 7
+    },
+    {
+      "index": 49,
+      "col": 1,
+      "row": 4,
+      "occurrences": 7
+    },
+    {
+      "index": 50,
+      "col": 2,
+      "row": 4,
+      "occurrences": 7
+    },
+    {
+      "index": 51,
+      "col": 3,
+      "row": 4,
+      "occurrences": 7
+    },
+    {
+      "index": 52,
+      "col": 4,
+      "row": 4,
+      "occurrences": 7
+    },
+    {
+      "index": 53,
+      "col": 5,
+      "row": 4,
+      "occurrences": 7
+    },
+    {
+      "index": 54,
+      "col": 6,
+      "row": 4,
+      "occurrences": 7
+    },
+    {
+      "index": 55,
+      "col": 7,
+      "row": 4,
+      "occurrences": 6
+    },
+    {
+      "index": 56,
+      "col": 8,
+      "row": 4,
+      "occurrences": 6
+    },
+    {
+      "index": 57,
+      "col": 9,
+      "row": 4,
+      "occurrences": 6
+    },
+    {
+      "index": 58,
+      "col": 10,
+      "row": 4,
+      "occurrences": 6
+    },
+    {
+      "index": 59,
+      "col": 11,
+      "row": 4,
+      "occurrences": 6
+    },
+    {
+      "index": 60,
+      "col": 0,
+      "row": 5,
+      "occurrences": 6
+    },
+    {
+      "index": 61,
+      "col": 1,
+      "row": 5,
+      "occurrences": 6
+    },
+    {
+      "index": 62,
+      "col": 2,
+      "row": 5,
+      "occurrences": 6
+    },
+    {
+      "index": 63,
+      "col": 3,
+      "row": 5,
+      "occurrences": 6
+    },
+    {
+      "index": 64,
+      "col": 4,
+      "row": 5,
+      "occurrences": 6
+    },
+    {
+      "index": 65,
+      "col": 5,
+      "row": 5,
+      "occurrences": 6
+    },
+    {
+      "index": 66,
+      "col": 6,
+      "row": 5,
+      "occurrences": 6
+    },
+    {
+      "index": 67,
+      "col": 7,
+      "row": 5,
+      "occurrences": 5
+    },
+    {
+      "index": 68,
+      "col": 8,
+      "row": 5,
+      "occurrences": 5
+    },
+    {
+      "index": 69,
+      "col": 9,
+      "row": 5,
+      "occurrences": 5
+    },
+    {
+      "index": 70,
+      "col": 10,
+      "row": 5,
+      "occurrences": 5
+    },
+    {
+      "index": 71,
+      "col": 11,
+      "row": 5,
+      "occurrences": 5
+    },
+    {
+      "index": 72,
+      "col": 0,
+      "row": 6,
+      "occurrences": 5
+    },
+    {
+      "index": 73,
+      "col": 1,
+      "row": 6,
+      "occurrences": 5
+    },
+    {
+      "index": 74,
+      "col": 2,
+      "row": 6,
+      "occurrences": 5
+    },
+    {
+      "index": 75,
+      "col": 3,
+      "row": 6,
+      "occurrences": 5
+    },
+    {
+      "index": 76,
+      "col": 4,
+      "row": 6,
+      "occurrences": 5
+    },
+    {
+      "index": 77,
+      "col": 5,
+      "row": 6,
+      "occurrences": 4
+    },
+    {
+      "index": 78,
+      "col": 6,
+      "row": 6,
+      "occurrences": 4
+    },
+    {
+      "index": 79,
+      "col": 7,
+      "row": 6,
+      "occurrences": 4
+    },
+    {
+      "index": 80,
+      "col": 8,
+      "row": 6,
+      "occurrences": 4
+    },
+    {
+      "index": 81,
+      "col": 9,
+      "row": 6,
+      "occurrences": 4
+    },
+    {
+      "index": 82,
+      "col": 10,
+      "row": 6,
+      "occurrences": 4
+    },
+    {
+      "index": 83,
+      "col": 11,
+      "row": 6,
+      "occurrences": 4
+    },
+    {
+      "index": 84,
+      "col": 0,
+      "row": 7,
+      "occurrences": 4
+    },
+    {
+      "index": 85,
+      "col": 1,
+      "row": 7,
+      "occurrences": 4
+    },
+    {
+      "index": 86,
+      "col": 2,
+      "row": 7,
+      "occurrences": 4
+    },
+    {
+      "index": 87,
+      "col": 3,
+      "row": 7,
+      "occurrences": 4
+    },
+    {
+      "index": 88,
+      "col": 4,
+      "row": 7,
+      "occurrences": 4
+    },
+    {
+      "index": 89,
+      "col": 5,
+      "row": 7,
+      "occurrences": 4
+    },
+    {
+      "index": 90,
+      "col": 6,
+      "row": 7,
+      "occurrences": 4
+    },
+    {
+      "index": 91,
+      "col": 7,
+      "row": 7,
+      "occurrences": 3
+    },
+    {
+      "index": 92,
+      "col": 8,
+      "row": 7,
+      "occurrences": 3
+    },
+    {
+      "index": 93,
+      "col": 9,
+      "row": 7,
+      "occurrences": 3
+    },
+    {
+      "index": 94,
+      "col": 10,
+      "row": 7,
+      "occurrences": 3
+    },
+    {
+      "index": 95,
+      "col": 11,
+      "row": 7,
+      "occurrences": 3
+    },
+    {
+      "index": 96,
+      "col": 0,
+      "row": 8,
+      "occurrences": 3
+    },
+    {
+      "index": 97,
+      "col": 1,
+      "row": 8,
+      "occurrences": 2
+    },
+    {
+      "index": 98,
+      "col": 2,
+      "row": 8,
+      "occurrences": 2
+    },
+    {
+      "index": 99,
+      "col": 3,
+      "row": 8,
+      "occurrences": 2
+    },
+    {
+      "index": 100,
+      "col": 4,
+      "row": 8,
+      "occurrences": 2
+    },
+    {
+      "index": 101,
+      "col": 5,
+      "row": 8,
+      "occurrences": 2
+    },
+    {
+      "index": 102,
+      "col": 6,
+      "row": 8,
+      "occurrences": 2
+    },
+    {
+      "index": 103,
+      "col": 7,
+      "row": 8,
+      "occurrences": 2
+    },
+    {
+      "index": 104,
+      "col": 8,
+      "row": 8,
+      "occurrences": 2
+    },
+    {
+      "index": 105,
+      "col": 9,
+      "row": 8,
+      "occurrences": 2
+    },
+    {
+      "index": 106,
+      "col": 10,
+      "row": 8,
+      "occurrences": 2
+    },
+    {
+      "index": 107,
+      "col": 11,
+      "row": 8,
+      "occurrences": 2
+    },
+    {
+      "index": 108,
+      "col": 0,
+      "row": 9,
+      "occurrences": 2
+    },
+    {
+      "index": 109,
+      "col": 1,
+      "row": 9,
+      "occurrences": 2
+    },
+    {
+      "index": 110,
+      "col": 2,
+      "row": 9,
+      "occurrences": 2
+    },
+    {
+      "index": 111,
+      "col": 3,
+      "row": 9,
+      "occurrences": 2
+    },
+    {
+      "index": 112,
+      "col": 4,
+      "row": 9,
+      "occurrences": 2
+    },
+    {
+      "index": 113,
+      "col": 5,
+      "row": 9,
+      "occurrences": 2
+    },
+    {
+      "index": 114,
+      "col": 6,
+      "row": 9,
+      "occurrences": 2
+    },
+    {
+      "index": 115,
+      "col": 7,
+      "row": 9,
+      "occurrences": 2
+    },
+    {
+      "index": 116,
+      "col": 8,
+      "row": 9,
+      "occurrences": 2
+    },
+    {
+      "index": 117,
+      "col": 9,
+      "row": 9,
+      "occurrences": 2
+    },
+    {
+      "index": 118,
+      "col": 10,
+      "row": 9,
+      "occurrences": 2
+    },
+    {
+      "index": 119,
+      "col": 11,
+      "row": 9,
+      "occurrences": 2
+    },
+    {
+      "index": 120,
+      "col": 0,
+      "row": 10,
+      "occurrences": 2
+    },
+    {
+      "index": 121,
+      "col": 1,
+      "row": 10,
+      "occurrences": 2
+    },
+    {
+      "index": 122,
+      "col": 2,
+      "row": 10,
+      "occurrences": 2
+    },
+    {
+      "index": 123,
+      "col": 3,
+      "row": 10,
+      "occurrences": 2
+    },
+    {
+      "index": 124,
+      "col": 4,
+      "row": 10,
+      "occurrences": 2
+    },
+    {
+      "index": 125,
+      "col": 5,
+      "row": 10,
+      "occurrences": 1
+    },
+    {
+      "index": 126,
+      "col": 6,
+      "row": 10,
+      "occurrences": 1
+    },
+    {
+      "index": 127,
+      "col": 7,
+      "row": 10,
+      "occurrences": 1
+    },
+    {
+      "index": 128,
+      "col": 8,
+      "row": 10,
+      "occurrences": 1
+    },
+    {
+      "index": 129,
+      "col": 9,
+      "row": 10,
+      "occurrences": 1
+    },
+    {
+      "index": 130,
+      "col": 10,
+      "row": 10,
+      "occurrences": 1
+    },
+    {
+      "index": 131,
+      "col": 11,
+      "row": 10,
+      "occurrences": 1
+    },
+    {
+      "index": 132,
+      "col": 0,
+      "row": 11,
+      "occurrences": 1
+    },
+    {
+      "index": 133,
+      "col": 1,
+      "row": 11,
+      "occurrences": 1
+    },
+    {
+      "index": 134,
+      "col": 2,
+      "row": 11,
+      "occurrences": 1
+    },
+    {
+      "index": 135,
+      "col": 3,
+      "row": 11,
+      "occurrences": 1
+    },
+    {
+      "index": 136,
+      "col": 4,
+      "row": 11,
+      "occurrences": 1
+    },
+    {
+      "index": 137,
+      "col": 5,
+      "row": 11,
+      "occurrences": 1
+    },
+    {
+      "index": 138,
+      "col": 6,
+      "row": 11,
+      "occurrences": 1
+    },
+    {
+      "index": 139,
+      "col": 7,
+      "row": 11,
+      "occurrences": 1
+    },
+    {
+      "index": 140,
+      "col": 8,
+      "row": 11,
+      "occurrences": 1
+    },
+    {
+      "index": 141,
+      "col": 9,
+      "row": 11,
+      "occurrences": 1
+    },
+    {
+      "index": 142,
+      "col": 10,
+      "row": 11,
+      "occurrences": 1
+    },
+    {
+      "index": 143,
+      "col": 11,
+      "row": 11,
+      "occurrences": 1
+    },
+    {
+      "index": 144,
+      "col": 0,
+      "row": 12,
+      "occurrences": 1
+    },
+    {
+      "index": 145,
+      "col": 1,
+      "row": 12,
+      "occurrences": 1
+    }
+  ]
+}
